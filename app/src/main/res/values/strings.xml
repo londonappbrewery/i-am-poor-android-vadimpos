@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">I Am Not Poor</string>
+    <string name="click_me_button">Click Me</string>
+    <string name="main_caption">I Am Not Poor</string>
 </resources>
